@@ -1,0 +1,19 @@
+.order {
+    margin-top: 10px;
+}
+
+.button_drop {
+    margin-top: -10px;
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    background-color:#FFC83A;
+    border: none;
+}
+
+
+.main_buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
